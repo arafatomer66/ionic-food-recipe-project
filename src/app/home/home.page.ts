@@ -9,4 +9,11 @@ export class HomePage {
 
   constructor() {}
 
+
+    text =  'This is Arafat !' ;
+
+  onClick() {
+      this.text =  'Thanks for clicking !' ;
+  }
+
 }
