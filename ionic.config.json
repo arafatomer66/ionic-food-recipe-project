@@ -1,5 +1,7 @@
 {
   "name": "ionic-practice",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
